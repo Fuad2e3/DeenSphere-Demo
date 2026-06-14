@@ -22,7 +22,7 @@
 
 
 ## 📖 Overview
-**DeenSphere** is more than just an Islamic app; it's a comprehensive digital companion for the modern Muslim. Developed with devotion at **Green University of Bangladesh**, it bridges the gap between traditional practice and modern technology. Using **Google Gemini AI**, DeenSphere provides instant Islamic guidance and knowledge, while the integrated marketplace and community platform foster a connected and prosperous Ummah.
+**DeenSphere** is more than just an Islamic app; it's a comprehensive digital companion for the modern Muslim. Developed with devotion at **Softece**, it bridges the gap between traditional practice and modern technology. Using **Google Gemini AI**, DeenSphere provides instant Islamic guidance and knowledge, while the integrated marketplace and community platform foster a connected and prosperous Ummah.
 
 ---
 
