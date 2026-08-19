@@ -122,6 +122,6 @@ Admin/app/src/main/java/com/deensphere/softece/admin/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="center">
-  Developed with ❤️ by <b>Team Softece</b><br>
+  Developed with ❤️ by <b>Fuad</b><br>
   <i>DeenSphere</i>
 </p>
