@@ -122,8 +122,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Developed with ❤️ by Fuad**  
-*Developed by Softece*  
-*DeenSphere*
+**Developed ❤️ by Softece**
 
 </div>
